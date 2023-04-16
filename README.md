@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MrTam-Node
-- 👀 I’m interested in DevOps, Data Analytics and Sustainble Development.  
-- 🌱 I’m currently learning SQL, Docker, Ansible, Linux System Administration and Shell Scripting, etc. 
-- 💞️ I’m looking to collaborate on dev projects. 
+- 👀 I’m interested in DevOps, site reliability engineering and cloud engineering.  
+- 🌱 I love to automate tasks and create automated pipelines with technologies/tools like Ansible, Jankins, Terraform and Shell Scripting etc. 
+- 💞️ I’m open to collaborate on interesting dev projects. 
 - 📫 How to reach me: opusunjutobi@gmail.com
 
 <!---
